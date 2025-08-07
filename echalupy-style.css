@@ -1,3 +1,4 @@
-tbody {
-  border-radius: 10px;
+table.month.unselectable {
+    border-radius: 10px;
+    overflow: hidden;
 }
