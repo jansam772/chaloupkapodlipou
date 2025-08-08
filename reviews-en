@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Trustindex Test</title>
+</head>
+<body>
+
+  <!-- Widget will load here -->
+  <script defer async src='https://cdn.trustindex.io/loader.js?bd258cd51d9772956d36d2598cd'></script>
+
+</body>
+</html>
